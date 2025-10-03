@@ -1,0 +1,11 @@
+Describe the key concept of Python Basics & Setup in your own words
+
+-> Python is a high-level, easy to learn program language and commonly used for AI because it is easy to read, and there are a lot of libraries available.
+-> Once you install python  you will want to select an IDE Such as vs Code. 
+-> At the basics level, you will learn how to work with:
+    variables (storing data), 
+    data types (numbers, strings, and lists, tuples, dicts, sets, classes objects etc), 
+    operators ( +, -, /, *)
+    control structures (results of if statements, and for and while loops). 
+    Object oriented Programming  
+-> With knowledge of the basics, you will have a foundation to do the more advanced tasks such as obtaining datasets and training AI models.
