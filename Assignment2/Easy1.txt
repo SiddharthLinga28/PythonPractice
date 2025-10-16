@@ -1,0 +1,7 @@
+In Python, data structures are how we organize and access data efficiently. 
+-> Built-in data structures, including list (dynamic array), tuple (immutable sequence), dict (hash map), or set (collection of unique elements), each have different trade-offs related to speed and memory. 
+-> Lists are very good for ordered data and fast appending; 
+-> dicts allow for near O(1) look ups by key; 
+-> sets are for removing duplicate elements and allow for fast membership checking; 
+-> tuples are lightweight, hashable sequences. 
+In addition to built-ins, other structures which can be implemented include linked lists, stacks, queues, trees, and graphs depending on the problem; this might be based on patterns, including frequent insertions/removals at either end, or some form of ordered traversal. Selecting the appropriate data structure is always based on access pattern + cost or time of operation (insert, delete, search) so that the code can be both clear and fast.
