@@ -1,0 +1,4 @@
+NumPy is an essential numerical computing library for Python.
+ It delivers fast ndarrays that sit in contiguous memory, vectorized operations that apply to the entire array, broadcasting that matches array shapes without copying data, ufuncs for elementwise math, and sophisticated indexing/masking. 
+ Compared to Python loops, NumPy moves computational work to C routines, enabling concise and fast linear algebra, statistics, and array transforms. 
+ The habits are: keep data in ndarrays, avoid Python loops, make use of broadcasting, and use the built-in functions for reductions and linear algebra.
