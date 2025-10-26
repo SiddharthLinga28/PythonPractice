@@ -1,0 +1,4 @@
+Pandas is a mostly high-level library for data analysis that focuses on tabular DataFrame and 1-D Series objects. 
+Eventually, it has a lot of capabilities in terms of reading/writing data, subsetting and filtering rows/columns, managing missing values, group and aggregation, time-series operations, merging/joining datasets, and reshaping via pivot/melt. 
+It is also efficient under the hood with NumPy, so vectorized operations on whole columns will be short and efficient. 
+The habits we will take with us: keep your data in DataFrames, take the vectorized column ops in lieu of Python loops, use groupby for aggregations, and use merge, concat and pivot_table for reshaping and combining your data cleanly.
