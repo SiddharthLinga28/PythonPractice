@@ -1,0 +1,18 @@
+### Easy 1: Key Concepts of SQL Basics
+
+SQL (Structured Query Language) is used to store, query, and manage data in relational databases. 
+Data is organized into tables (rows and columns). 
+Each row is a record; each column is a field with a defined data type.
+
+Core concepts:
+- `CREATE TABLE` – define a table structure.
+- `INSERT` – add records.
+- `SELECT` – read data.
+- `WHERE` – filter rows.
+- `ORDER BY` – sort results.
+- `UPDATE` – modify existing rows.
+- `DELETE` – remove rows.
+- Primary keys – uniquely identify each row.
+- Foreign keys – link related data between tables.
+
+These basics let us answer questions from data in a clear, consistent, and efficient way.
